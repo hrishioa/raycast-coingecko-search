@@ -23,9 +23,10 @@
     <img src="assets/pepe.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Pepe: A Raycast extension to search Coingecko and retrieve prices</h3>
+  <h2 align="center">Pepe: A Raycast extension to search Coingecko and retrieve prices</h2>
 </div>
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ![Product Name Screen Shot](/assets/demo.gif)
@@ -49,7 +50,7 @@ Simple extension to do a fuzzy search on Coingecko for assets, and retrieve the 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Type `GC ` followed by the name of the asset.
+Type `GC `  followed by the name of the asset.
 
 <!-- CONTRIBUTING -->
 ## Contributing
