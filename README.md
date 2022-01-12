@@ -24,11 +24,11 @@
   </a>
 
   <h3 align="center">Pepe: A Raycast extension to search Coingecko and retrieve prices</h3>
-
+</div>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][/assets/demo.gif]
+![Product Name Screen Shot](/assets/demo.gif)
 
 Simple extension to do a fuzzy search on Coingecko for assets, and retrieve the prices.
 
@@ -37,8 +37,8 @@ Simple extension to do a fuzzy search on Coingecko for assets, and retrieve the 
 
 ### Prerequisites
 
-* [RayCast][https://raycast.com]
-* [Node][https://nodejs.org/en/]
+* [RayCast](https://raycast.com)
+* [Node](https://nodejs.org/en/)
 
 ### Installation
 
